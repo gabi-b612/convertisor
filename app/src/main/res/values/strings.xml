@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">convertiseur</string>
+    <string name="btn_valide">Convertir</string>
+    <string name="description">Convertir un decimal en hexadecimal et hexadecimal en decimal</string>
+    <string name="decimal_input">Nombre decimal</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="hexadecimal_input">Hexadecimal</string>
+</resources>
